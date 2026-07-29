@@ -1,0 +1,3 @@
+-rw------- 1 sola sola 0 Jul 24 22:10 secrets.env
+sola@PC:~/projects/server-audit$ env | grep SERVER
+SERVER_ROLE=audit-node
